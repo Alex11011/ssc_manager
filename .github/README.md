@@ -76,7 +76,7 @@ Press `Ctrl+C` when you're done with editing config and `:wq` to save the config
 Press `Ctrl+b` and then `d`
 
 <p align="center">
-  <img src="https://te.legra.ph/file/6acc1c0b18c74d554b3a2.pg">
+  <img src="https://te.legra.ph/file/6acc1c0b18c74d554b3a2.jpg">
 </p>
 
 </details>
