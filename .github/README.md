@@ -1,7 +1,7 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「 ғᴀʟʟᴇɴ ✘ ʀᴏʙᴏᴛ 」──
+    ──「 MAHAKAL ✘ ROBOT 」──
 </h2>
 
 <p align="center">
